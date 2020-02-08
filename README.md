@@ -16,8 +16,10 @@
 
 - 백준, 문제풀이, 문제은행
 
-    [https://www.acmicpc.net/](https://www.acmicpc.net/)
+    [https://www.acmicpc.net](https://www.acmicpc.net/)
 
+- [solved.ac](http://solved.ac) , 백준 문제 난이도 분류, 플러그인
+    - [https://solved.ac/](https://solved.ac/)
 - Leetcode, 문제풀이, 문제은행, 영문
 
     [https://leetcode.com/](https://leetcode.com/)
@@ -30,6 +32,16 @@
 
 - RxMarbles, Rx 연산자 다이어그램, 영문
 [https://rxmarbles.com/](https://rxmarbles.com/)
+
+# iOS
+
+- raywenderlich, 영문, 일부 유료
+[https://www.raywenderlich.com/](https://www.raywenderlich.com/)
+
+# 웹 프론트엔드
+
+- 웹 프론트엔드 튜토리얼
+[https://poiemaweb.com/](https://poiemaweb.com/)
 
 ---
 
@@ -89,6 +101,11 @@
 
 ---
 
+# 서적
+
+- 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선(20190409)
+[https://www.sangkon.com/good_books_for_dev_2018/](https://www.sangkon.com/good_books_for_dev_2018/)
+
 # 단문
 
 ## 아키텍처
@@ -114,6 +131,11 @@
 - 스위프트로 다시보는 객체지향 프로그래밍: 피해야할 코딩 습관
 
     [https://soojin.ro/blog/solid-principles-in-swift?fbclid=IwAR0vgJbChBkO6hnA76-ggs4lhmoheArwHX9IA8RoiD-fh3zAX7s9I2nDkgQ](https://soojin.ro/blog/solid-principles-in-swift?fbclid=IwAR0vgJbChBkO6hnA76-ggs4lhmoheArwHX9IA8RoiD-fh3zAX7s9I2nDkgQ)
+
+- Refactoring: Replace Enum with Polymorphism
+[https://medium.com/swift-fox/refactoring-replace-enum-with-polymorphism-c4803baeba07](https://medium.com/swift-fox/refactoring-replace-enum-with-polymorphism-c4803baeba07)
+- Enums as configuration: the anti-pattern
+[https://www.jessesquires.com/blog/enums-as-configs/](https://www.jessesquires.com/blog/enums-as-configs/)
 
 ## 자동화
 
