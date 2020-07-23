@@ -8,6 +8,10 @@
 
 # 사이트
 
+Javascript
+
+[https://ko.javascript.info/](https://ko.javascript.info/)
+
 ## 알고리즘
 
 - GeeksforGeeks, 파이선, 알고리즘, 시간복잡도, 영문
@@ -63,6 +67,7 @@
 
 - [https://zeddios.tistory.com/](https://zeddios.tistory.com/)
 - [https://magi82.github.io/](https://magi82.github.io/)
+- [https://devmjun.github.io/category/](https://devmjun.github.io/category/)
 
 ## 안드로이드
 
@@ -105,6 +110,7 @@
 
 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선(20190409)
 [https://www.sangkon.com/good_books_for_dev_2018/](https://www.sangkon.com/good_books_for_dev_2018/)
+- 오키수집, books for developers [https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
 
 # 단문
 
@@ -136,12 +142,19 @@
 [https://medium.com/swift-fox/refactoring-replace-enum-with-polymorphism-c4803baeba07](https://medium.com/swift-fox/refactoring-replace-enum-with-polymorphism-c4803baeba07)
 - Enums as configuration: the anti-pattern
 [https://www.jessesquires.com/blog/enums-as-configs/](https://www.jessesquires.com/blog/enums-as-configs/)
+- OOD in Swift 5
+[https://github.com/ochococo/OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift)
+- Design Pattern in Swift 5
+[https://github.com/ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 ## 자동화
 
 - iOS Parallel UI Testing
 
     [https://riiid.github.io/2019-12-02/iOS-parallel-ui-testing/](https://riiid.github.io/2019-12-02/iOS-parallel-ui-testing/)
+
+- RxSwift Test 같이 시작하기
+    - [https://www.slideshare.net/ssuser750dc6/rxswift-testing-feat-rxblocking-rxtest-192641266](https://www.slideshare.net/ssuser750dc6/rxswift-testing-feat-rxblocking-rxtest-192641266)
 
 ## 개발문화
 
@@ -160,3 +173,35 @@
 - 세컨드스페이스 - 테스트케이스를 개발자들 말고 담당자들이 미리 채워넣는 것은??
 
     [https://brunch.co.kr/@second-space/4](https://brunch.co.kr/@second-space/4)
+
+# 깃허브
+
+### ML
+
+- [https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
+
+### iOS 아키텍처 레포지터리
+
+- [https://github.com/nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) (star 300+)
+- [https://github.com/fimuxd/BringMyOwnBeer-](https://github.com/fimuxd/BringMyOwnBeer-) (star 40+)
+    - mvvm, rxSwift
+- [https://github.com/tailec/ios-architecture](https://github.com/tailec/ios-architecture) (star 600+)
+    - mvvm, rxSwift
+- [https://github.com/khoren93/SwiftHub](https://github.com/khoren93/SwiftHub) (star 1.4k+)
+    - mvvm, rxSwift
+- [https://github.com/kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) (star 7.1k+)
+    - mvvm, RxSwift, unit Test
+
+SwiftUI
+
+- [https://pxxxsxzy.tistory.com/35](https://pxxxsxzy.tistory.com/35)
+
+기획
+
+[https://brunch.co.kr/@choikyunghe/37](https://brunch.co.kr/@choikyunghe/37)
+
+[https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
+
+[https://github.com/HurSungYun/korean-dev-books](https://github.com/HurSungYun/korean-dev-books)
+
+[https://covenant.tistory.com/103?category=773722](https://covenant.tistory.com/103?category=773722)
